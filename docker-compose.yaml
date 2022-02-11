@@ -1,0 +1,6 @@
+version: '3.7'
+
+services:
+  python-compiler:
+    container_name: mak1_execution
+    image: python:3.9-slim-bullseye
